@@ -57,7 +57,7 @@ const AboutUs = () => {
                 menos desenvolvidos
               </p>
               <img
-                src="/src/assets/SDG-8.png"
+                src="https://brasil.un.org/profiles/undg_country/themes/custom/undg/images/SDGs/pt-br/SDG-8.svg"
                 alt="ODS"
                 className="w-[25vh] h-auto shadow-lg rounded-lg mx-5 "
               />
